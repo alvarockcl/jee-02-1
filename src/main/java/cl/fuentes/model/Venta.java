@@ -7,6 +7,7 @@ import java.time.LocalDate;
 
 import javax.persistence.*;
 
+
 import cl.fuentes.converter.LocalDateAttributeConverter;
 
 @Entity

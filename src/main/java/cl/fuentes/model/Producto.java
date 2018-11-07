@@ -3,6 +3,7 @@ package cl.fuentes.model;
 import java.io.Serializable;
 import javax.persistence.*;
 
+
 @Entity
 @Table(name="PRODUCTO")
 @NamedQueries({
